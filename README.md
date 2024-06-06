@@ -1,8 +1,7 @@
 ## Olá! 👋
 
-<!--
-**Oliver2jz/Oliver2jz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
+📚 Aprendendo Python, linguagem C e Arduíno. 
+⚙️ Buscando colaborar com projetos amadores ou de segurança. 
+📞 Contato: INSTAGRAM --> @O.LIVEIRABR // LINKEDIN --> HELDEROLIVEIRA1399 // EMAIL --> helderbrsc113@gmail.com 

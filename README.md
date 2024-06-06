@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: INSTAGRAM --> @o.liveirabr // EMAIL --> helderbrsc113@gmail.com com o assunto "Olá, vim pelo GitHub...". 
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Interesses nas áreas de cibersegurança, telemetria e bancos de dados.
--->
